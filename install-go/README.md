@@ -1,6 +1,6 @@
 # Install go language on Raspberry Pi
 
-To install go on ARM look for the ARM v6 version of the install file on [GoLang.org](https://golang.org/dl/)
+To install go for the ARM Arquitecture used on the Raspberry Pi, look for the ARM v6 version of the install file on [GoLang.org](https://golang.org/dl/)
 
 At the time of this writing the file for the current version was ***go1.15.6.linux-armv6l.tar.gz***
 
